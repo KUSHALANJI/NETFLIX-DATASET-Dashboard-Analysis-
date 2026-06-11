@@ -119,4 +119,5 @@ Netflix-Analysis/
 This project demonstrates the complete data analysis pipeline, from raw data processing to generating meaningful business insights through dashboards and visualizations.
 
 ## Author
-Kushal SA
+Kushal
+Data Analyst | Python | SQL | Power BI | Data Science
